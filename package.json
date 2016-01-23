@@ -1,0 +1,28 @@
+{
+  "name": "solve",
+  "version": "1.0.0",
+  "description": "solve quadratic equation",
+  "main": "solve.js",
+  "dependencies": {
+    "concat-stream": "^1.5.0",
+    "git-it": "^1.6.8",
+    "learnyounode": "^2.7.1",
+    "npm": "^2.11.3",
+    "prompt": "^0.2.14",
+    "through2-map": "^1.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node solve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnshuOnGit/NodePractice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnshuOnGit/NodePractice/issues"
+  },
+  "homepage": "https://github.com/AnshuOnGit/NodePractice#readme"
+}
